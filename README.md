@@ -1,4 +1,5 @@
 "# Site_de_stiri_cu_Python"
+
 Pentru a putea rula site-ul, sunt necesare urmatoarele programe / comenzi:
 
 - Download Anaconda cu Puthon versiunea 3.x
